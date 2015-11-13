@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/januaditya/Workspace/_git/up/vse-kalman/common/vseVehicleModel.h
+
+/Users/januaditya/Workspace/_git/up/vse-kalman/main/vseMain.cpp
+iostream
+-
+../common/vseVehicleModel.h
+/Users/januaditya/Workspace/_git/up/vse-kalman/common/vseVehicleModel.h
+

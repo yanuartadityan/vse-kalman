@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/vse-kalman.dir/main/vseMain.cpp.o  -o vse-kalman  common/libcommon.a 
